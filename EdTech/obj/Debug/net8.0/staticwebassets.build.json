@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kw3qpyDRKPp7a7LXtBmdXcjh5Z5Fmp4kjN7HM1BzvU4=",
+  "Hash": "6mU7i7Jsf8F1UXclGcT++i1Zh3FFHTit2sQMAF+m+Uc=",
   "Source": "EdTech",
   "BasePath": "_content/EdTech",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "wkp9aim6gq",
+      "Integrity": "QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p2vup72ong",
-      "Integrity": "L7LzKvrX21PZWGj6EXemrvHknGFgRgAuUffJfmbUpK8=",
+      "Fingerprint": "b8bxraklqu",
+      "Integrity": "G5rg5iEuiCBrLLkGgjIAslkbqUdl+k2VhSCkJr0fPSI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1321,51 +1321,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "E:\\EdTech\\EdTech\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 12:19:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "E:\\EdTech\\EdTech\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1376,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "11912"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 12:19:29 GMT"
+          "Value": "Fri, 29 Aug 2025 06:19:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1353,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wkp9aim6gq.css",
+      "AssetFile": "E:\\EdTech\\EdTech\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 06:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wkp9aim6gq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
         }
       ]
     },
@@ -1731,6 +1731,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.b8bxraklqu.css",
+      "AssetFile": "E:\\EdTech\\EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G5rg5iEuiCBrLLkGgjIAslkbqUdl+k2VhSCkJr0fPSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 06:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b8bxraklqu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G5rg5iEuiCBrLLkGgjIAslkbqUdl+k2VhSCkJr0fPSI="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "E:\\EdTech\\EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -1741,7 +1786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "303112"
+          "Value": "313037"
         },
         {
           "Name": "Content-Type",
@@ -1749,11 +1794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L7LzKvrX21PZWGj6EXemrvHknGFgRgAuUffJfmbUpK8=\""
+          "Value": "\"G5rg5iEuiCBrLLkGgjIAslkbqUdl+k2VhSCkJr0fPSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 22 Aug 2025 15:01:33 GMT"
+          "Value": "Fri, 29 Aug 2025 06:14:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1763,7 +1808,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L7LzKvrX21PZWGj6EXemrvHknGFgRgAuUffJfmbUpK8="
+          "Value": "sha256-G5rg5iEuiCBrLLkGgjIAslkbqUdl+k2VhSCkJr0fPSI="
         }
       ]
     },
@@ -2010,51 +2055,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.p2vup72ong.css",
-      "AssetFile": "E:\\EdTech\\EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "303112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"L7LzKvrX21PZWGj6EXemrvHknGFgRgAuUffJfmbUpK8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Aug 2025 15:01:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p2vup72ong"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-L7LzKvrX21PZWGj6EXemrvHknGFgRgAuUffJfmbUpK8="
         }
       ]
     },

@@ -146,3 +146,4 @@ E:\EdTech\EdTech\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Crypto
 E:\EdTech\EdTech\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\EdTech\EdTech\obj\Debug\net8.0\EdTech.csproj.AssemblyReference.cache
 E:\EdTech\EdTech\obj\Debug\net8.0\EdTech.csproj.Up2Date
+E:\EdTech\EdTech\obj\Debug\net8.0\EdTech.sourcelink.json

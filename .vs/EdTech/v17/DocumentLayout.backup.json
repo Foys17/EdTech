@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\EdTech\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|solutionrelative:edtech\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC7F5FB2-A3A7-4AAA-AF3B-4B6E68D0F938}|EdTech\\EdTech.csproj|e:\\edtech\\edtech\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,102 +58,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\EdTech\\EdTech\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EdTech\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\EdTech\\EdTech\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EdTech\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-29T06:19:03.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "E:\\EdTech\\EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "E:\\EdTech\\EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "EdTech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-29T06:14:02.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\EdTech\\EdTech\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "EdTech\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "ToolTip": "E:\\EdTech\\EdTech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EdTech\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T18:15:09.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "E:\\EdTech\\EdTech\\Views\\Shared\\_Notification.cshtml*",
-              "RelativeToolTip": "EdTech\\Views\\Shared\\_Notification.cshtml*",
+              "ToolTip": "E:\\EdTech\\EdTech\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "EdTech\\Views\\Shared\\_Notification.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T18:11:56.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T18:11:56.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "E:\\EdTech\\EdTech\\Views\\Category\\Delete.cshtml*",
-              "RelativeToolTip": "EdTech\\Views\\Category\\Delete.cshtml*",
+              "ToolTip": "E:\\EdTech\\EdTech\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "EdTech\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T17:38:39.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T17:38:39.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Models\\Category.cs",
               "RelativeDocumentMoniker": "EdTech\\Models\\Category.cs",
               "ToolTip": "E:\\EdTech\\EdTech\\Models\\Category.cs",
               "RelativeToolTip": "EdTech\\Models\\Category.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:01:58.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T15:01:58.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Category\\Create.cshtml",
               "ToolTip": "E:\\EdTech\\EdTech\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "EdTech\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T14:30:11.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "EdTech\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\EdTech\\EdTech\\Controllers\\CategoryController.cs*",
-              "RelativeToolTip": "EdTech\\Controllers\\CategoryController.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\EdTech\\EdTech\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EdTech\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T14:28:36.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T14:28:36.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Category\\Index.cshtml",
               "ToolTip": "E:\\EdTech\\EdTech\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "EdTech\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-22T14:52:08.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Category\\Edit.cshtml",
@@ -153,12 +183,11 @@
               "RelativeToolTip": "EdTech\\Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T17:19:37.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T17:19:37.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -166,12 +195,11 @@
               "RelativeToolTip": "EdTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T16:00:34.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:00:34.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\EdTech\\EdTech\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "EdTech\\Views\\Shared\\Error.cshtml",
@@ -179,8 +207,7 @@
               "RelativeToolTip": "EdTech\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T16:02:15.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:02:15.712Z"
             }
           ]
         }
